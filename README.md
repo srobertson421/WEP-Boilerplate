@@ -16,10 +16,8 @@ git clone git@github.com:srobertson421/WEP-Boilerplate.git
 cd WEP-Boilerplate
 # Install dependencies
 npm install
-# Open two terminal windows
 # Run the app
-npm run dev # Runs webpack build with watch enabled - terminal 1
-npm start # Runs Electron - terminal 2
+npm run dev # Runs webpack build with watch enabled and electron on the current directory
 ```
 
 #### License [CC0 1.0 (Public Domain)](LICENSE.md)
